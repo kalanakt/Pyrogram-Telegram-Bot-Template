@@ -1,5 +1,0 @@
-pyrogram
-tgcrypto
-pyromod
-pymongo
-aiohttp
