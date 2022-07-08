@@ -10,23 +10,23 @@ HELP_TXT = script.HELP_TXT
 ABOUT_TXT = script.ABOUT_TXT
 
 @Client.on_message(filters.command("start") & filters.private)
-async def start(bot, cmd):	
+async def start(bot, cmd):
 	await cmd.reply_text(
 		START_TXT.format(cmd.from_user.first_name), 
 		disable_web_page_preview=True,
 		reply_markup=InlineKeyboardMarkup(
-        [
-            [
-              InlineKeyboardButton("🔮Help", callback_data='help_cb'),
-					    InlineKeyboardButton("⚔About", callback_data='about_cb')
-            ],
-				    [
-					    InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/kinu6'),
-					    InlineKeyboardButton("⚙️Update Channel", url="https://t.me/TMWAD")
-		        ]
+			[
+				[
+					InlineKeyboardButton("🔮Help", callback_data='help_cb'),
+					InlineKeyboardButton("⚔About", callback_data='about_cb')
+				],
+				[
+					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/kinu6'),
+					InlineKeyboardButton("⚙️Update Channel", url="https://t.me/TMWAD")
+				]
 			]
-			)
 		)
+	)
     
   
 @Client.on_message(filters.command("help") & filters.private)
@@ -35,18 +35,18 @@ async def help(bot, cmd):
 		HELP_TXT, 
 		disable_web_page_preview=True,
 		reply_markup=InlineKeyboardMarkup(
-        [
-            [
-              InlineKeyboardButton("⚔About", callback_data='about_cb'),
-					    InlineKeyboardButton("⚡Back", callback_data='start_cb')
-            ],
-				    [
-					    InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/kinu6'),
-					    InlineKeyboardButton("⚙️Update Channel", url="https://t.me/TMWAD")
-		        ]
+			[
+				[
+					InlineKeyboardButton("⚔About", callback_data='about_cb'),
+					InlineKeyboardButton("⚡Back", callback_data='start_cb')
+				],
+				[
+					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/kinu6'),
+					InlineKeyboardButton("⚙️Update Channel", url="https://t.me/TMWAD")
+				]
 			]
-			)
 		)
+	)
     
 @Client.on_message(filters.command("about") & filters.private)
 async def start(bot, cmd):	
@@ -54,15 +54,15 @@ async def start(bot, cmd):
 		ABOUT_TXT, 
 		disable_web_page_preview=True,
 		reply_markup=InlineKeyboardMarkup(
-        [
-            [
-              InlineKeyboardButton("🔮Help", callback_data='help_cb'),
-					    InlineKeyboardButton("⚡Back", callback_data='start_cb')
-            ],
-				    [
-					    InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/kinu6'),
-					    InlineKeyboardButton("⚙️Update Channel", url="https://t.me/TMWAD")
-		        ]
+			[
+				[
+					InlineKeyboardButton("🔮Help", callback_data='help_cb'),
+					InlineKeyboardButton("⚡Back", callback_data='start_cb')
+				],
+				[
+					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/kinu6'),
+					InlineKeyboardButton("⚙️Update Channel", url="https://t.me/TMWAD")
+				]
 			]
-			)
 		)
+	)
