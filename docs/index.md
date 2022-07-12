@@ -1,8 +1,3 @@
-<p align="center"><a href="https://thecodexo.com" target="_blank" rel="noopener noreferrer"><img width="250" src="https://github.com/kalanakt/Pyrogram-Telegram-Bot-Template/blob/main/pic/logo_transparent_1100x300.png" alt="Code xo logo"></a></p>
-
-<!-- <p align='center'>
-  <img alt="GitHub Sparkline" src="https://stars.medv.io/kalanakt/Pyrogram-Telegram-Bot-Template.svg">
-</p> -->
 <p align="center">
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/kalanakt/Pyrogram-Telegram-Bot-Template?logo=files&logoColor=f72585&style=social">
   <img alt="GitHub release (by tag)" src="https://img.shields.io/github/downloads/kalanakt/Pyrogram-Telegram-Bot-Template/v1.0.0/total?color=90dbf4&logo=arlo&style=social">
