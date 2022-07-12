@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+<p align="center"><a href="https://thecodexo.com" target="_blank" rel="noopener noreferrer"><img width="250" src="https://github.com/kalanakt/Pyrogram-Telegram-Bot-Template/blob/main/pic/logo_transparent_1100x300.png" alt="Code xo logo"></a></p>
 
-You can use the [editor on GitHub](https://github.com/kalanakt/Pyrogram-Telegram-Bot-Template/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- <p align='center'>
+  <img alt="GitHub Sparkline" src="https://stars.medv.io/kalanakt/Pyrogram-Telegram-Bot-Template.svg">
+</p> -->
+<p align="center">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/kalanakt/Pyrogram-Telegram-Bot-Template?logo=files&logoColor=f72585&style=social">
+  <img alt="GitHub release (by tag)" src="https://img.shields.io/github/downloads/kalanakt/Pyrogram-Telegram-Bot-Template/v1.0.0/total?color=90dbf4&logo=arlo&style=social">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/kalanakt/Pyrogram-Telegram-Bot-Template?color=8eecf5&logo=anaconda&logoColor=06d6a0&style=social">
+  <img alt="GitHub" src="https://img.shields.io/github/license/kalanakt/Pyrogram-Telegram-Bot-Template?logo=adguard&logoColor=390099&style=social">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kalanakt/Pyrogram-Telegram-Bot-Template?color=90e0ef&logoColor=ff4d6d&style=social">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kalanakt/Pyrogram-Telegram-Bot-Template?logo=electron&logoColor=89fc00&style=social">
+</p>
+<br><br>
+<h3>This repo is for telegram bot using pyrogram libray</h3>
+<p>This is <a href="https://thecodexo.com" target="_blank" rel="noopener noreferrer">Codexo</a> project for develop telegram bot using pyrogram</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3>Introduction</h3>
+<p>This is complete pyrogram bot. host in <a href="https://dashboard.heroku.com/" target="_blank" rel="noopener noreferrer">heroku</a>. use <a href="https://docs.pyrogram.org" target="_blank" rel="noopener noreferrer">Pyrogram Documentation</a> for develop your bot.</p>
+ 
+<h3>Documentation</h3>
 
-### Markdown
+<p>check out <a href="https://docs.pyrogram.org" target="_blank" rel="noopener noreferrer">pyrogram doc</a></p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h3>Questions</h3>
 
-```markdown
-Syntax highlighted code block
+<p>For questions and support please use <a href="https://github.com/kalanakt/Pyrogram-Telegram-Bot-Template/discussions" target="_blank" rel="noopener noreferrer">Discussions</a>. The issue list of this repo is <strong>exclusively</strong> for bug reports and feature requests.</p>
 
-# Header 1
-## Header 2
-### Header 3
+<h3>Issues</h3>
 
-- Bulleted
-- List
+<p>Please make sure to read the <a href="https://github.com/kalanakt/Pyrogram-Telegram-Bot-Template/discussions/categories/issue-reporting-checklist" target="_blank" rel="noopener noreferrer">Issue Reporting Checklist</a>. before opening an <a href="https://github.com/kalanakt/Pyrogram-Telegram-Bot-Template/issues" target="_blank" rel="noopener noreferrer">issue</a>. Issues not conforming to the guidelines may be closed immediately.</p>
 
-1. Numbered
-2. List
+<h3>Changelog</h3>
 
-**Bold** and _Italic_ and `Code` text
+<p>Detailed changes for each release are documented in the <a href="https://github.com/kalanakt/Pyrogram-Telegram-Bot-Template/commits/main" target="_blank" rel="noopener noreferrer">main commits</a></p> 
 
-[Link](url) and ![Image](src)
-```
+<h3>Stay In Touch</h3>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- [Telegram](https://t.me/TMWAD)
 
-### Jekyll Themes
+<h3>Contribution</h3>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalanakt/Pyrogram-Telegram-Bot-Template/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p>If you have a pyrogram-related project/component/tool/idea, add it with a <a href="https://github.com/kalanakt/Pyrogram-Telegram-Bot-Template/pulls" target="_blank" rel="noopener noreferrer">pull request</a> Thank you to all the people who contributed to this project!</p>
 
-### Support or Contact
+<h3>License</h3>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[MIT](https://opensource.org/licenses/MIT)
+
+<br>
+<em align='center'>Copyright (c) 2022-present <strong>code xo</strong></em>
