@@ -12,7 +12,7 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kalanakt/Pyrogram-Telegram-Bot-Template?logo=electron&logoColor=89fc00&style=social">
 </p>
 <br><br>
-<img alt="Download Zip file" src="https://img.shields.io/github/downloads/kalanakt/Pyrogram-Telegram-Bot-Template/v1.0.0/total?color=caf0f8&label=Download%20As%20Zip%20v1.0.0&logo=Files&logoColor=caf0f8&style=for-the-badge">
+<a href="https://github.com/kalanakt/Pyrogram-Telegram-Bot-Template/archive/refs/tags/v1.0.0.zip><img alt="Download Zip file" src="https://img.shields.io/github/downloads/kalanakt/Pyrogram-Telegram-Bot-Template/v1.0.0/total?color=caf0f8&label=Download%20As%20Zip%20v1.0.0&logo=Files&logoColor=caf0f8&style=for-the-badge"></a>
 
 <h3>This repo is for telegram bot using pyrogram libray</h3>
 <p>This is <a href="https://thecodexo.com" target="_blank" rel="noopener noreferrer">Codexo</a> project for develop telegram bot using pyrogram</p>
