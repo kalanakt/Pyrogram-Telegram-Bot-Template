@@ -21,13 +21,22 @@ This is a template for creating Telegram bots using Pyrogram, MongoDB, and Pytho
 
 2. Install the dependencies:
 
+   
+   ```bash
+   #optional
+   python3 -m venv env
+   source env/bin/activate # in mac OS
+   env/Scripts/activate.bat #In CMD
+   env/Scripts/Activate.ps1 #In Powershel
+   ```
+
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Set up your MongoDB database and get the connection URI.
+4. Set up your MongoDB database and get the connection URI.
 
-4. Create a `.env` file in the project root and add your MongoDB connection URI and your Telegram bot token:
+5. Create a `.env` file in the project root and add your MongoDB connection URI and your Telegram bot token:
 
    ```plaintext
    DATABASE_URI=your-mongodb-connection-uri
@@ -37,7 +46,7 @@ This is a template for creating Telegram bots using Pyrogram, MongoDB, and Pytho
    BOT_TOKEN=your-bot-token
    ```
 
-5. Run the bot:
+6. Run the bot:
 
    ```bash
    python bot.py
